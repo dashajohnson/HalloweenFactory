@@ -11,6 +11,6 @@ public class Student {
 
     }
     public void printinfo(){
-        System.out.println(name + " dressed up as a " + costume + " and got " + nCandy + " pieces of candy.");
+        System.out.println(name + " dressed up as " + costume + " and got " + nCandy + " pieces of candy.");
     }
 }
